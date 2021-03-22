@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+      "manager" : "~74.5",
+      "agent" : "109"
+    }
+  }
