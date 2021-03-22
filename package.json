@@ -1,6 +1,6 @@
 {
     "dependencies": {
-      "manager" : "~74.5",
-      "agent" : "109"
+      "backup_manager" : "~74.5",
+      "backup_agent" : "109"
     }
   }
