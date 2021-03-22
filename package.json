@@ -1,6 +1,7 @@
 {
     "dependencies": {
       "backup_manager" : "~74.5",
-      "backup_agent" : "109"
+      "backup_agent" : "109",
+      "manager_boshrelease": "git@github.com:anynines/backup-manager-boshrelease.git#v74.7.0"
     }
   }
