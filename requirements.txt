@@ -1,2 +1,3 @@
 git+git://github.com/anynOH/genericAgent.git@master
 git+https://github.com/alphagov/paas-cf.git
+testpackage=5.4.3
