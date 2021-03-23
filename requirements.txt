@@ -1,1 +1,1 @@
-git://github.com/anynOH/genericAgent.git@master
+git+git://github.com/anynOH/genericAgent.git@master
